@@ -3,7 +3,7 @@
 I'm interested in FLOSS, Distributed Systems, Software Engineering, and Functional Programming. Mainly working with Linux, Rust, Postgres, Nix, Python, and C/C++.
 
 
-I've recently graduated as a Bachelor of Information Systems at [University of São Paulo](https://usp.br)'s [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en/), and am working as a DevOps Engineer at [Zoocha](https://zoocha.com), on a couple personal projects, and planning to start working torwards a MSc in software engineering.
+I'm currently working torwards a MSc degree in Computer Science at [University of São Paulo](https://usp.br)'s [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en/), a DevOps Engineer at [Zoocha](https://zoocha.com), on a couple personal projects.
 
 My repos are usually mirrored at [my own server](https://m7.rs/git). Check it out if you prefer to avoid github!
 
